@@ -43,4 +43,35 @@
 |38| [IRecyclerView](https://github.com/Aspsine/IRecyclerView) | IRecyclerView is a custom RecyclerView that supports pull-to-refresh, pull-to-loadmore, customize refresh header and loadmore footer, add header views and footer views. |
 |39| [android-EmojiCompat](https://github.com/googlearchive/android-EmojiCompat) | google demo |
 |40| [ExpandableTextView](https://github.com/MZCretin/ExpandableTextView) | 实现类似微博内容，@用户，链接高亮，@用户和链接可点击跳转，可展开和收回的TextView |
-
+|41| [Album](https://github.com/yanzhenjie/Album) | 🍉 Album and Gallery for Android platform. |
+|42| [WebViewJavascriptBridge](https://github.com/gzsll/WebViewJavascriptBridge) | WebViewJavascriptBridge for Android |
+|43| [AndPermission](https://github.com/yanzhenjie/AndPermission) | 🍓 Permissions manager for Android platform. |
+|44| [DSBridge-Android](https://github.com/wendux/DSBridge-Android) | 🌎 A modern cross-platform JavaScript bridge, through which you can invoke each other's functions synchronously or asynchronously between JavaScript and native. |
+|45| [ViewPagerLayoutManager](https://github.com/leochuan/ViewPagerLayoutManager) | ViewPager like LayoutManager which supports some awesome animations and infinite scroll. |
+|46| [SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView) | 🍈 RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，HeaderView，FooterView，Item分组黏贴。 |
+|47| [NoHttp](https://github.com/yanzhenjie/NoHttp) | 🍋 Android实现Http标准协议框架，支持多种缓存模式，底层可动态切换OkHttp、URLConnection。 |
+|48| [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) | An Android Animation library which easily add itemanimator to RecyclerView items. |
+|49| [MoreTextView](https://github.com/binny1024/MoreTextView) | 1、在文本末尾，实现点击“展开”---展开所有文本，并把“展开”改为“收起”；点击“收起”，则收起文本； 2、“展开”和“收起”紧跟文本末尾。并且不换行。 |
+|50| [GuideView-master](https://github.com/qiushi123/GuideView-master) | Android引导蒙层，安卓新手引导图，引导图层，支持椭圆，圆形，矩形多种形状，一行代码快速搞定新手引导视图，最最轻量级的新手引导库（只有1个类），能够快速的为一个Activity里的任何一个View控件创建一个遮罩式的导航页，支持单个页面，多个引导提示 |
+|51| [ShadowViewHelper](https://github.com/wangjiegulu/ShadowViewHelper) | Shadow layout, shadow view for android. |
+|52| [KeyboardVisibilityEvent](https://github.com/yshrsmz/KeyboardVisibilityEvent) | Android Library to handle software keyboard visibility change event. |
+|53| [okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) | OkGo - 3.0 震撼来袭，该库是基于 Http 协议，封装了 OkHttp 的网络请求框架，比 Retrofit 更简单易用，支持 RxJava，RxJava2，支持自定义缓存，支持批量断点下载管理和批量上传管理功能 |
+|54| [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) | This is a project designed to help controlling Android MediaPlayer class. It makes it easier to use MediaPlayer ListView and RecyclerView. Also it tracks the most visible item in scrolling list. When new item in the list become the most visible, this library gives an API to track it. |
+|55| [retrofit](https://github.com/square/retrofit) | A type-safe HTTP client for Android and the JVM |
+|56| [okhttp](https://github.com/square/okhttp) | Square’s meticulous HTTP client for the JVM, Android, and GraalVM. |
+|57| [AndroidModulePattern](https://github.com/guiying712/AndroidModulePattern) | Android项目组件化示例代码，支持Fragment和View |
+|58| [Kiku](https://github.com/JerrNeon/Kiku) | common library |
+|59| [gallery](https://github.com/flutter/gallery) | Flutter Gallery is a resource to help developers evaluate and use Flutter |
+|60| [flutter_wanandroid](https://github.com/Sky24n/flutter_wanandroid) | 🔥🔥🔥 基于Google Flutter的WanAndroid客户端，支持Android和iOS。包括BLoC、RxDart 、国际化、主题色、启动页、引导页，拥有较好的项目结构&比较规范的代码！ |
+|61| [WanAndroid](https://github.com/iceCola7/WanAndroid) | 🔥项目采用 Kotlin 语言，基于 MVP + RxJava + Retrofit + Glide + EventBus 等架构设计，努力打造一款优秀的 [玩Android] 客户端 |
+|62| [flutter-go](https://github.com/alibaba/flutter-go) | flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 |
+|63| [fun_android_flutter](https://github.com/phoenixsky/fun_android_flutter) | 👿👿👿👿👿玩Android客户端Flutter版本。Provider的最佳实践.DarkMode、多色彩主题、国际化、切换字体、优美动画 |
+|64| [wechat_flutter](https://github.com/fluttercandies/wechat_flutter) | wechat_flutter Flutter版本微信，一个优秀的Flutter即时通讯IM开源库！ |
+|65| [Android-Instagram-Clone](https://github.com/mitchtabian/Android-Instagram-Clone) | Develop your own Instagram Clone App |
+|66| [EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI) | Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk "EffectiveAndroidUI". |
+|67| [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | A shadowsocks client for Android |
+|68| [wexond-desktop](https://github.com/wexond/desktop) | 🌍 A privacy-focused, extensible and beautiful web browser |
+|69| [UETool](https://github.com/eleme/UETool) | Show/edit any view's attributions on the screen. |
+|70| [testing-samples](https://github.com/android/testing-samples) | A collection of samples demonstrating different frameworks and techniques for automated testing |
+|71| [android-AppShortcuts](https://github.com/googlearchive/android-AppShortcuts) | archive demo |
+|72| [material-components-android](https://github.com/material-components/material-components-android) | Modular and customizable Material Design UI components for Android |
